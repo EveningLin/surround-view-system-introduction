@@ -3,5 +3,5 @@
 
 This is a simple implementation of a surround view system, including calibration, projection, stitching, and real-time running processes. The [English documentation](https://github.com/hynpu/surround-view-system-introduction/blob/master/doc/en.md) can be found in the `doc` folder.
 
-##（1）一些优化
+## 一些优化
 [优化](https://www.zhihu.com/column/c_1696190558530326528)
